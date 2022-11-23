@@ -7,4 +7,4 @@ You can see explanied version on my medium profile:
 https://medium.com/@kaancukur
 
 You can keep in touch me on my LinkedIn profile:
-https://medium.com/@kaancukurx/lists
+[https://medium.com/@kaancukurx/lists](https://medium.com/@kaancukurx/list/python-mini-projects-f6857f1445bc)
