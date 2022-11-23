@@ -7,4 +7,4 @@ You can see explanied version on my medium profile:
 https://medium.com/@kaancukur
 
 You can keep in touch me on my LinkedIn profile:
-https://www.linkedin.com/in/kcukur/
+https://medium.com/@kaancukurx/lists
